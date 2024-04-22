@@ -4,6 +4,6 @@
 
 [Репозиторий с playbook](https://github.com/kshatyy/ansible4)
 
-[Репозиторий lighthouse-role](https://github.com/kshatyy/lighthouse-role)
+[Репозиторий lighthouse-role](https://github.com/kshatyy/lighthouse-role-master)
 
-[Репозиторий с vector-role](https://github.com/kshatyy/vector-role)
+[Репозиторий с vector-role](https://github.com/kshatyy/vector-role-master)
